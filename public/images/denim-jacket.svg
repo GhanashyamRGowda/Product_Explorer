@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 450" role="img">
+<rect width="600" height="450" fill="#E6EDF7"/>
+<ellipse cx="300" cy="400" rx="190" ry="14" fill="#000" opacity="0.10"/>
+
+<polygon points="225,110 375,110 392,365 208,365" fill="#3F6AA3"/>
+<polygon points="225,110 175,135 130,335 178,345 212,205" fill="#35598C"/>
+<polygon points="375,110 425,135 470,335 422,345 388,205" fill="#35598C"/>
+<polygon points="255,100 300,160 262,172 232,120" fill="#2C4A78"/>
+<polygon points="345,100 300,160 338,172 368,120" fill="#2C4A78"/>
+<line x1="300" y1="160" x2="300" y2="365" stroke="#1F3557" stroke-width="4"/>
+<rect x="238" y="235" width="48" height="50" rx="4" fill="none" stroke="#9DB7DB" stroke-width="3" stroke-dasharray="6 4"/>
+<rect x="314" y="235" width="48" height="50" rx="4" fill="none" stroke="#9DB7DB" stroke-width="3" stroke-dasharray="6 4"/>
+<circle cx="300" cy="200" r="6" fill="#D6B26B"/>
+<circle cx="300" cy="300" r="6" fill="#D6B26B"/>
+<circle cx="300" cy="340" r="6" fill="#D6B26B"/>
+<rect x="208" y="352" width="184" height="14" fill="#2C4A78"/>
+
+</svg>

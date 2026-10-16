@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 450" role="img">
+<rect width="600" height="450" fill="#E8F1FB"/>
+<ellipse cx="300" cy="400" rx="190" ry="14" fill="#000" opacity="0.10"/>
+
+<rect x="410" y="72" width="14" height="316" rx="3" fill="#F5F5F4" stroke="#D6D3D1" stroke-width="2"/>
+<rect x="190" y="62" width="224" height="336" rx="8" fill="#F8FAFC"/>
+<rect x="190" y="62" width="26" height="336" rx="8" fill="#CBD5E1"/>
+
+<text x="315" y="190" text-anchor="middle" font-family="Consolas, monospace" font-weight="700" font-size="80" fill="#0B6E79">{ }</text>
+<text x="315" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-weight="800" font-size="38" fill="#0F1B2D">CLEAN</text>
+<text x="315" y="318" text-anchor="middle" font-family="Arial, sans-serif" font-weight="800" font-size="38" fill="#0F1B2D">CODE</text>
+<rect x="250" y="346" width="130" height="4" fill="#0B6E79"/>
+</svg>

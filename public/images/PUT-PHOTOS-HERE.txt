@@ -1,0 +1,5 @@
+Add real photos here, named exactly like the .svg files but with .jpg:
+headphones.jpg, smartwatch.jpg, speaker.jpg, keyboard.jpg, denim-jacket.jpg, sneakers.jpg,
+wallet.jpg, table-lamp.jpg, bedsheet.jpg, steel-bottle.jpg, yoga-mat.jpg, running-shoes.jpg,
+dumbbells.jpg, atomic-habits.jpg, pragmatic-programmer.jpg, clean-code.jpg
+Free sources: unsplash.com, pexels.com
